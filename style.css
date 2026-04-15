@@ -124,3 +124,7 @@ p {
 .section-spacing {
     margin-bottom: 4rem;
 }
+
+a, button {
+    cursor: pointer;
+}
